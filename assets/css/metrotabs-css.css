@@ -1,0 +1,27 @@
+.mettabs {
+	margin:50px 0;
+	padding:10px 0;
+	list-style:none;
+	width:960px;
+}
+.mettabs > li {
+	list-style:none;
+	display:block;
+	position:relative;
+
+}
+
+.tabtile-small {
+	text-align:center;
+	cursor:pointer;
+	width:90px;
+	height:90px;
+}
+ 
+.tabtile-small > span {
+	padding-bottom:0px;
+	display:block;
+
+}
+
+ 
