@@ -1,0 +1,27 @@
+#bodyStyle{
+	font-family: Tahoma;
+}
+
+#sectionContent{
+	font-size: 10px;
+}
+
+#sectionContentSpacer{
+	height:10px;
+}
+
+#sectionSpacer{
+	height:20px;
+}
+
+#sectionTitle{
+	color: #B40000;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#pageTitle{
+	color: #000000;
+	font-weight: bold;
+	font-size: 14px;
+}
